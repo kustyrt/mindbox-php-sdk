@@ -1,5 +1,5 @@
 {
-    "name": "mindbox/sdk",
+    "name": "kustyrt/mindbox-php-sdk",
     "description": "Mindbox SDK for PHP",
     "keywords": ["mindbox", "sdk"],
     "type": "library",
